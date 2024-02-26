@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class student {
     private String Name;
-    private int rollNo;
+    private int  rollNo;
     private float marks;
     private float marks1;
     private float marks2;
