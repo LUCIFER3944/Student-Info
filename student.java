@@ -41,5 +41,6 @@ public class student {
         marks = s.marks;
         marks1 = s.marks1;
         marks2 = s.marks2;
+       totalMarks=s.totalMarks;
     }
 }
