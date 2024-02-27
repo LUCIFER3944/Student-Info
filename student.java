@@ -43,4 +43,5 @@ public class student {
         marks2 = s.marks2;
        totalMarks=s.totalMarks;
     }
+    
 }
